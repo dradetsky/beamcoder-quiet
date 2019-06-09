@@ -1,7 +1,10 @@
 [![CircleCI](https://circleci.com/gh/Streampunk/beamcoder.svg?style=shield&circle-token=:circle-token)](https://circleci.com/gh/Streampunk/beamcoder)
 [![npm version](https://badge.fury.io/js/beamcoder.svg)](https://badge.fury.io/js/beamcoder)
 [![License](https://img.shields.io/badge/License-GPL%203.0%20or%20later-blue.svg)](https://opensource.org/licenses/GPL-3.0)
-# Aerostat Beam Coder
+# Aerostat Beam Coder (quiet version)
+
+This is the same as Aerostat Beam Coder, except it doesn't print out a
+GPL message when you load the library, because fuck that shit.
 
 <img align="right" src="images/beamcoder_small.jpg">[Node.js](https://nodejs.org/) native bindings to [FFmpeg](https://www.ffmpeg.org/) with support for asynchronous processing via streams and promises.
 

@@ -1,5 +1,5 @@
 {
-  "name": "beamcoder",
+  "name": "beamcoder-quiet",
   "version": "0.3.0",
   "description": "Node.js native bindings to FFmpeg.",
   "main": "index.js",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Streampunk/beamcoder.git"
+    "url": "git+https://github.com/dradetsky/beamcoder-quiet.git"
   },
   "keywords": [
     "FFmpeg",
@@ -31,7 +31,7 @@
   "bugs": {
     "url": "https://github.com/Streampunk/beamcoder/issues"
   },
-  "homepage": "https://github.com/Streampunk/beamcoder#readme",
+  "homepage": "https://github.com/dradetsky/beamcoder-quiet#readme",
   "dependencies": {
     "bindings": "^1.5.0",
     "koa": "^2.7.0",
